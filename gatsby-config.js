@@ -7,12 +7,12 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: `Bonneville`,
+    title: `Quantum Ville`,
     titleTemplate: `%s | A starter theme for Gatsby`,
     siteUrl: `https://bonneville.netlify.com`,
     description: `A starter theme for Gatsby`,
-    author: `Morgan Baker`,
-    twitterUsername: `@bonneville`,
+    author: `Jonas Kgomo`,
+    twitterUsername: `@jonas_kg`,
     twitterURL: `https://twitter.com/`,
     linkedInURL: `https://www.linkedin.com/in/morgan-baker-developer-inverness`,
     githubURL: `https://github.com/bagseye`,
@@ -28,8 +28,8 @@ module.exports = {
         name: `Bonneville - Gatsby Starter Theme`,
         short_name: `Bonneville`,
         start_url: `/`,
-        background_color: `#0027EC`,
-        theme_color: `#0027EC`,
+        background_color: `#F027EC`,
+        theme_color: `#F027EC`,
         display: `standalone`,
         icon: `static/favicon.ico`,
       },

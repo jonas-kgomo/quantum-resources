@@ -11,12 +11,12 @@ export default ({ data }) => {
     <Layout>
       <Seo />
       <h1>
-        My name is Bonneville. I'm a starter theme for Gatsby and I like to talk
-        as if I am a living thing
+        The <h1 style={{color:'blue', display:'inline'}}  >Quantum Ville</h1> is a curated resource for your journey through quantum computing education.
       </h1>
       <h4 className={styles.feature}>
-        {data.allMarkdownRemark.totalCount} Featured Posts
+        {data.allMarkdownRemark.totalCount} Featured 
       </h4>
+      
       {data.allMarkdownRemark.edges.map(({ node }) => (
         <article className={styles.item}>
           <div className={styles.title}>

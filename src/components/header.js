@@ -161,7 +161,7 @@ export default ({ children }) => {
             <Link to="/">
               <h2>{data.site.siteMetadata.title}</h2>
             </Link>
-          </div>
+          </div >
           <button className="btn" onClick={() => menuChange(!menuStatus)}>
             Menu
           </button>

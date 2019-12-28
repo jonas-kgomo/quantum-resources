@@ -15,8 +15,10 @@ body {
 }
 
 .main-body {
-  padding: 4rem 2rem 1rem 2rem;
-  max-width: 450px;
+  padding: 4rem 5rem 3rem 2rem;
+  max-width: 500px;
+  margin: 20px;
+  
 
   @media (min-width: 768px) {
     padding: 6rem 2rem 1rem 2rem;
@@ -26,6 +28,15 @@ body {
   @media (min-width: 1200px) {
     max-width: 1000px;
   }
+}
+
+.card {
+  height: 250px;
+  width: 400px;
+  border: 10px;
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: blue($color: #0659ff);
 }
 
 .nav-link {

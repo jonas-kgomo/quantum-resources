@@ -7,3 +7,18 @@ featuredImage: ./images/dark-design.jpg
 ---
 
 Standard page content that can be used with this starter.
+
+
+$sd$ 
+
+LaTex \[df\]
+
+$$f$$
+
+
+`javascript
+f(x){}
+`
+<code>string gunc(d)>3</code>
+
+<math>ji\sum</math>

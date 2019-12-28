@@ -2,7 +2,9 @@
 $black: #111;
 $lightGrey: rgba(0,0,0,0.1);
 $darkGrey: rgba(0,0,0,0.8);
-$primaryColor: #0027EC;
+$darkBlue: rgb(44, 56, 115);
+$primaryColor: rgb(0, 34, 253);
+//#0027EC;
 
 // Transitions
 $transMed: 0.3s;
@@ -10,7 +12,7 @@ $transMed: 0.3s;
 // Typography
 $sansSerif: 'Roboto', sans-serif;
 $serif: 'Playfair Display', serif;
-$mono: 'IBM Plex Mono', monospace;
+$mono: 'Fira Code', monospace;
 $heavyWeight: 900;
 
 h1,

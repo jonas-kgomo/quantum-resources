@@ -9,6 +9,7 @@
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column;
+            
 
     .title {
 
@@ -77,7 +78,8 @@
 }
 
 .feature {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
+    font-weight: 150;
 }
 
 @media(min-width: 768px) {

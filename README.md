@@ -3,6 +3,27 @@
   Bonneville - A Gatsby Starter Blog
 </h1>
 
+
+
+
+
+> Forum 
+
+> Microblog
+
+> Ask Experts
+
+> Discuss arxivals
+
+> Opportunities 
+
+> Papers
+
+
+
+> Add text animation
+https://codesandbox.io/s/react-text-loop-playground-br4q1
+
 ## Please Note
 
 This repo is a WIP. Updates will happen throughout the life of this project as I understand working with Gatsby and React. If issues are raised, I will answer and resolve them when time allows.

@@ -23,7 +23,7 @@ const SEO = ({ title, description, image, pathname, article }) => (
         url: `${siteUrl}${pathname || "/"}`,
       }
       return (
-        <>
+        <div>
           <Helmet title={seo.title} titleTemplate={titleTemplate}>
             <meta name="description" content={seo.description} />
             {seo.url && <meta property="og:url" content={seo.url} />}
@@ -43,7 +43,7 @@ const SEO = ({ title, description, image, pathname, article }) => (
               <meta name="twitter:description" content={seo.description} />
             )}
           </Helmet>
-        </>
+        </div>
       )
     }}
   />
